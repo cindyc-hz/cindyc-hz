@@ -1,5 +1,14 @@
-## Hi there 👋
+## 👋 Hi there! I'm Cindy
 
+🌱 I’m currently learning JavaScript, Python, SQL
+
+📊 Interested in Data Science
+
+💡 Open to feedback and new learning opportunities
+
+📫 Reach me at: 
+- [Email](cindy.mch01@proton.me)
+- [LinkedIn](https://www.linkedin.com/in/cindy-carre%C3%B3n-2b961a254/)
 <!--
 **cindyc-hz/cindyc-hz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
